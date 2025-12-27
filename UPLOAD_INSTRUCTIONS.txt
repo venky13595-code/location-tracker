@@ -1,0 +1,15 @@
+INSTRUCTIONS TO DEPLOY YOUR APP
+================================
+
+Upload these 3 files to GitHub:
+1. app_render.py
+2. requirements.txt  
+3. render.yaml
+
+Then deploy on Render.com:
+- Sign up: https://render.com
+- New Web Service
+- Connect GitHub repo
+- Deploy!
+
+Your URL will be like: https://yourapp.onrender.com
